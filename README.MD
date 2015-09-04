@@ -5,7 +5,9 @@ Este repositório tem uma única finalidade que é o estudo básico da linguagem
 ##adivinhacao.c
 Este sistema consiste em receber um número e comparar com o código secreto, retornando para o usuário se ele acertou ou se o número informado é inferior ou superior ao código secreto.
 
-### compilando o arquivo
+### Os processos de compilação e execução, são realizados pelo terminal no diretório onde o sistema se encontra.
+
+#### compilando o arquivo
 
 LINUX
     
@@ -13,13 +15,13 @@ LINUX
 
 Obs: o compilador GCC é default no linux.
 
-### Executando o sistema
+#### Executando o sistema
 
 LINUX
 
-   ./adivinhacao
+    ./adivinhacao
 
-### Resultado
+#### Resultado
 
     ************************************
     * Bem-vindo ao jogo de Adivinhação *
