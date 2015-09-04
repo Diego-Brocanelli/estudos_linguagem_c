@@ -7,7 +7,7 @@ Este sistema consiste em receber um número e comparar com o código secreto, re
 
     Os processos de compilação e execução, são realizados pelo terminal no diretório onde o sistema se encontra.
 
-#### compilando o arquivo
+#### Compilando o arquivo
 
 LINUX
     
