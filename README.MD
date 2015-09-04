@@ -7,7 +7,8 @@ Este sistema consiste em receber um número e comparar com o código secreto, re
 
 ### compilando o arquivo
 
-    LINUX
-        gcc adivinhacao.c -o adivinhacao
+LINUX
+    
+`gcc adivinhacao.c -o adivinhacao
 
-    Obs: o compilador GCC é default no linux.
+Obs: o compilador GCC é default no linux.
