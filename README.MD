@@ -12,3 +12,17 @@ LINUX
     gcc adivinhacao.c -o adivinhacao
 
 Obs: o compilador GCC é default no linux.
+
+### Executando o sistema
+
+LINUX
+
+   ./adivinhacao
+
+### Resultado
+
+    ************************************
+    * Bem-vindo ao jogo de Adivinhação *
+    ************************************
+
+    Qual é o seu chute?
