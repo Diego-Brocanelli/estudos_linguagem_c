@@ -9,6 +9,6 @@ Este sistema consiste em receber um número e comparar com o código secreto, re
 
 LINUX
     
-`gcc adivinhacao.c -o adivinhacao
+    gcc adivinhacao.c -o adivinhacao
 
 Obs: o compilador GCC é default no linux.
