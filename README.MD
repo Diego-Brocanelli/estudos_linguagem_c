@@ -4,6 +4,7 @@ Este repositório tem uma única finalidade que é o estudo básico da linguagem
 
 ##adivinhacao.c
 Este sistema consiste em receber um número e comparar com o código secreto, retornando para o usuário se ele acertou ou se o número informado é inferior ou superior ao código secreto.
+
 Este processo se repetirá até que o jogador acerte o número.
 
     Os processos de compilação e execução, são realizados pelo terminal no diretório onde o sistema se encontra.
@@ -27,5 +28,5 @@ LINUX
     ************************************
     * Bem-vindo ao jogo de Adivinhação *
     ************************************
-
+	Tentativa 1
     Qual é o seu chute?
