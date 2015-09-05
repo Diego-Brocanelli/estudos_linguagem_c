@@ -25,8 +25,59 @@ LINUX
 
 #### Resultado
 
-    ************************************
-    * Bem-vindo ao jogo de Adivinhação *
-    ************************************
-	Tentativa 1
-    Qual é o seu chute?
+    ****************************************************
+    *         Bem-vindo ao jogo de Adivinhação         *
+    ****************************************************
+    *          P  /_\  P                               *
+    *         /_\_|_|_/_\                              *
+    *     n_n | ||. .|| | n_n         Bem vindo ao     *
+    *     |_|_|nnnn nnnn|_|_|     Jogo de Adivinhação! *
+    *    |" "  |  |_|  |"  " |                         *
+    *    |_____| ' _ ' |_____|                         *
+    *          \__|_|__/                               *
+    *                                                  *
+    ****************************************************
+
+
+    Qual o seu nívle de dificuldade? 
+    ( 1 ) Fácil ( 2 ) Médio ( 3 ) Difícil 
+
+    Escolha: 
+
+#### Quando jogador acerta o número secreto.
+
+    ****************************************************
+    *                  Fim de jogo!                    *
+    ****************************************************
+    
+                 OOOOOOOOOOO               
+             OOOOOOOOOOOOOOOOOOO           
+          OOOOOO  OOOOOOOOO  OOOOOO        
+        OOOOOO      OOOOO      OOOOOO      
+      OOOOOOOO  #   OOOOO  #   OOOOOOOO    
+     OOOOOOOOOO    OOOOOOO    OOOOOOOOOO   
+    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  
+    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  
+    OOOO  OOOOOOOOOOOOOOOOOOOOOOOOO  OOOO  
+     OOOO  OOOOOOOOOOOOOOOOOOOOOOO  OOOO   
+      OOOO   OOOOOOOOOOOOOOOOOOOO  OOOO    
+        OOOOO   OOOOOOOOOOOOOOO   OOOO     
+          OOOOOO   OOOOOOOOO   OOOOOO      
+             OOOOOO         OOOOOO         
+                 OOOOOOOOOOOO              
+
+    Parabéns! Você acertou!
+    Você fez 965.50 pontos. Até a próxima!
+
+#### Quando jogador não acerta o número secreto.
+
+    ****************************************************
+    *                  Fim de jogo!                    *
+    ****************************************************
+
+           \|/ ____ \|/    
+            @~/ ,. \~@      
+           /_( \__/ )_\    
+              \__U_/        
+    
+    Você perdeu! Tente novamente!
