@@ -2,7 +2,8 @@
 
 Este repositório tem uma única finalidade que é o estudo básico da linguagem C.
 
-##adivinhacao.c
+# Jogo de adivinhação 
+    adivinhacao.c
 Este sistema consiste em receber um número e comparar com o código secreto, retornando para o usuário se ele acertou ou se o número informado é inferior ou superior ao código secreto.
 
 Este processo se repetirá até que o jogador acerte o número.
